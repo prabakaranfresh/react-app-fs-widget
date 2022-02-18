@@ -7,6 +7,7 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <a href="javascript:FreshWidget.show();">Show Widget</a>
   </React.StrictMode>,
   document.getElementById('root')
 );
